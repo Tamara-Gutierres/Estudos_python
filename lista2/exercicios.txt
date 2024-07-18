@@ -1,0 +1,6 @@
+1- receba 4 Nomes e Idades, E guarde em um dicionario, Imprima esse dicionario 
+2- faça um programa que Leia um N e depois receba N nomes, e guarde em uma list, e imprima o ultimo nome da list
+3- faça duas matrizes 2x2, A e B faça A+B, AxB, BxA
+4- Receba um n e esse n sera o tamanho de uma matriz quadrada, depois receba os valores dessa matriz e imprima ela
+5- pegue de um arquivo Uma lista de nomes que voce nao sabe o tamanho, guarde em uma list, inverta a list 
+e escreva em outro arquivo essa list invertida,
